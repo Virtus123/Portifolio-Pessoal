@@ -28,17 +28,17 @@ Aqui estão alguns dos projetos que faço parte e desenvolvi:
 ### [Olho de Deus](../view/project1.html)
 - **Descrição**: Background animado usando HTML5, CSS3 e GSAP.
 - **Tecnologias**: HTML5, CSS3, GSAP.
-- **Imagem**: ![Olho de Deus](../img/OlhodDeus.png)
+- **Imagem**: ![Olho de Deus](./assets/img/OlhodDeus.png)
 
 ### [Rocketship](../view/project2.html)
 - **Descrição**: Foguete interativo criado com CSS3, HTML5 e JavaScript.
 - **Tecnologias**: HTML5, CSS3, JavaScript.
-- **Imagem**: ![Rocketship](../img/rocket.png)
+- **Imagem**: ![Rocketship](./assets/img/rocket.png)
 
 ### [Damas](../view/project3.html)
 - **Descrição**: Jogo de Damas desenvolvido com HTML5, CSS3 e JavaScript puro.
 - **Tecnologias**: HTML5, CSS3, JavaScript.
-- **Imagem**: ![Damas](../img/damas.png)
+- **Imagem**: ![Damas](./assets/img/damas.png)
 
 ## Contato
 
