@@ -31,19 +31,19 @@ Aqui estão alguns dos projetos que faço parte e desenvolvi:
 ### [Olho de Deus](../view/project1.html)
 - **Descrição**: Background animado usando HTML5, CSS3 e GSAP.
 - **Tecnologias**: HTML5, CSS3, GSAP.
-- **Imagem**: ![Olho de Deus](![OlhodDeus](https://github.com/user-attachments/assets/9b28483a-1f1b-4754-a3f1-77efda175f90)
+- **Imagem**: ![Olho de Deus]![OlhodDeus](https://github.com/user-attachments/assets/9b28483a-1f1b-4754-a3f1-77efda175f90
 )
 
 ### [Rocketship](../view/project2.html)
 - **Descrição**: Foguete interativo criado com CSS3, HTML5 e JavaScript.
 - **Tecnologias**: HTML5, CSS3, JavaScript.
-- **Imagem**: ![Rocketship](![rocket](https://github.com/user-attachments/assets/02075e4c-25f1-4cc0-8600-36aeba6777c5)
+- **Imagem**: ![Rocketship]![rocket](https://github.com/user-attachments/assets/02075e4c-25f1-4cc0-8600-36aeba6777c5
 )
 
 ### [Damas](../view/project3.html)
 - **Descrição**: Jogo de Damas desenvolvido com HTML5, CSS3 e JavaScript puro.
 - **Tecnologias**: HTML5, CSS3, JavaScript.
-- **Imagem**: ![Damas](![damas](https://github.com/user-attachments/assets/609cae89-6359-461d-894f-a4c6b73e70d2)
+- **Imagem**: ![Damas]![damas](https://github.com/user-attachments/assets/609cae89-6359-461d-894f-a4c6b73e70d2
 )
 
 ## Contato
