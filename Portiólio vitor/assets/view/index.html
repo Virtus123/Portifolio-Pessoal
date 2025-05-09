@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../sty/style.css">
+  <title>Portifólio pessoal</title>
+</head>
+
+<body>
+  <section class="landing-page">
+    <!-- avatar -->
+    <img src="../img/avatar.png" style="border-radius: 999px; margin-top: 50px; max-height: 268px; object-fit: cover;" alt="AVATAR" class="avatar">
+    <h2 class="landing-text">Olá, eu sou o Vitor!</h2>
+    <h1>Eu estudo programação.</h1>
+    <p>Estudando programação desde meus 11 anos, pude adquirir habilidades nas linguagens de deenvolvimento<br>
+      <span>FrontEnd</span> e <span>BackEnd</span>, usando tais habilidades para que possa entregar o melhor desempenho
+      o projeto.
+    </p>
+  </section>
+
+
+  <!-- SEÇÃO DE HABILIDADES -->
+  <section class="skills" class="skills scroll-hidden">
+    <br><br><br>
+    <h2 class="section-title">Minhas Habilidades</h2>
+    <div class="skills-list">
+      <span class="skill-badge">HTML</span>
+      <span class="skill-badge">CSS</span>
+      <span class="skill-badge">JavaScript</span>
+      <!-- Adicione outras habilidades se quiser -->
+       <br><br><br><br><br><br><br><br><br>
+    </div>
+  </section>
+
+  <section class="space" class="space scroll-hidden">
+    <div class="stars">
+      <div class="stars-back"></div>
+      <div class="stars-middle"></div>
+      <div class="stars-front"></div>
+    </div>
+    <div class="rocket">
+      <div class="fuselage">
+        <div class="nose"></div>
+        <div class="head">
+          <span class="window"></span>
+        </div>
+        <div class="neck"></div>
+        <div class="body"></div>
+        <div class="reactor"></div>
+        <div class="fire">
+          <div class="spark1"></div>
+          <div class="spark2"></div>
+          <div class="spark3"></div>
+          <div class="spark4"></div>
+          <div class="spark5"></div>
+          <div class="spark6"></div>
+        </div>
+      </div>
+      <div class="left-fin"></div>
+      <div class="left-fin-end"></div>
+      <div class="right-fin"></div>
+      <div class="right-fin-end"></div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO DE PROJETOS -->
+  <section class="projects" class="projects scroll-hidden">
+    <h2 class="section-title">Projetos</h2>
+    <div class="card-container">
+      <article class="card">
+        <img src="../img/OlhodDeus.png" alt="Imagem do Projeto 1" class="card-img">
+        <h3 class="card-title">OLHO DE DEUS</h3>
+        <p class="card-description">Background Animado com <span>HTML5</span>, <span>CSS3</span> e <span>GSAP</span>.</p>
+        <a href="../view/project1.html" class="card-button" aria-label="Ver Projeto 1">Ver Projeto</a>
+      </article>
+
+      <article class="card">
+        <img src="../img/rocket.png" alt="Imagem do Projeto 2" class="card-img">
+        <h3 class="card-title">ROCKETSHIP</h3>
+        <p class="card-description">Foguete interativo com <span>CSS3</span>, <span>HTML5</span> e <span>JAVASCRIPT</span>.</p>
+        <a href="../view/project2.html" class="card-button" aria-label="Ver Projeto 2">Ver Projeto</a>
+      </article>
+
+      <article class="card">
+        <img src="../img/damas.png" style="max-width: 500px; max-height: 268px; object-fit: cover;" class="card-img">
+        <h3 class="card-title">DAMAS</h3>
+        <p class="card-description">Jogo de Damas com <span>HTML5</span>, <span>CSS3</span>e <span>JAVASCRIPT</span> Puro.</p>
+        <a href="../view/project3.html" class="card-button" aria-label="Ver Projeto 3">Ver Projeto</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="contact" id="contato" class="contact scroll-hidden">
+    <h2 class="section-title">Entre em Contato</h2>
+    <p class="contact-description">Se você quiser falar comigo, colaborar ou tirar dúvidas, preencha o formulário
+      abaixo:</p>
+
+    <form class="contact-form" action="https://formspree.io/f/mnndvwaz" method="POST">
+      <div class="form-group">
+        <label for="name">Nome</label>
+        <input type="text" id="name" name="name" required placeholder="Seu nome">
+      </div>
+
+      <div class="form-group">
+        <label for="email">E-mail</label>
+        <input type="email" id="email" name="email" required placeholder="seu@email.com">
+      </div>
+
+      <div class="form-group">
+        <label for="message">Mensagem</label>
+        <textarea id="message" name="message" rows="5" required placeholder="Sua mensagem"></textarea>
+      </div>
+
+      <button type="submit" class="contact-button">Enviar</button>
+    </form>
+  </section>
+
+
+
+  <!-- RODAPÉ -->
+  <footer class="footer">
+    <p>&copy; 2025 Vitor. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="../js/main.js"></script>
+</body>
+
+</html>
